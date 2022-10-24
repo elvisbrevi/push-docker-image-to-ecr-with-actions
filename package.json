@@ -1,0 +1,23 @@
+{
+  "name": "template-aws-ecr-docker-github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elvisbrevi/template-aws-ecr-docker-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elvisbrevi/template-aws-ecr-docker-github-actions/issues"
+  },
+  "homepage": "https://github.com/elvisbrevi/template-aws-ecr-docker-github-actions#readme",
+  "description": "",
+  "dependencies": {
+    "config": "^3.3.6",
+    "express": "^4.17.1"
+  }
+}
